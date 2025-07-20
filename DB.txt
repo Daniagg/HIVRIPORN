@@ -1,2 +1,2 @@
-HWID_149114226:qwe123:true
-HWID_7601478:qwe123:true
+"HWID_149114226:qwe123:true",
+"HWID_7601478:qwe123:true"
